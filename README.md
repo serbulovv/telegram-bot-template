@@ -1,6 +1,6 @@
-This application was mistakenly created on the main ROR!.
+## This is a telegram bot which is based on the [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) gem.
 
-This is a telegram bot which is based on the [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) gem.
+#### *This application was mistakenly created on the ROR!.*
 
 The bot has a number of basic functions that the bot can reuse for its own purposes.
 
